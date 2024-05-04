@@ -10,11 +10,6 @@ This project utilizes TensorFlow and Convolutional Neural Networks (CNNs) to cla
 - [Dataset](#dataset)
 - [Dependencies](#dependencies)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Results](#results)
-- [Future Improvements](#future-improvements)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
